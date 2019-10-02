@@ -11,6 +11,7 @@
 - [Gabriel R Sezefredo](https://github.com/gabrieldrs)
 - [Katya Fadeeva](https://github.com/fadeeva)
 - [Justin Brown](https://github.com/mediumjustinbieber)
+-[Ajey Prasand](https://github.com/ajeyprasand)
 -[km-js]
 - [Dalida Saad](https://github.com/saaddalida)
 - [Shivam Kumar Singh](https://github.com/shivam-51)
